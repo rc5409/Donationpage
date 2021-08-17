@@ -1,0 +1,15 @@
+{
+  "name": "sparks",
+  "version": "1.0.0",
+  "description": "Carousel",
+  "main": "index.js",
+  "dependencies": {
+    "owl.carousel": "^2.3.4",
+    "tiny-slider": "^2.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
